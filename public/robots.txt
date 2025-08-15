@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /api/
+
+Sitemap: https://xaigoal.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Blocked paths
+Disallow: /api/predict
+Disallow: /_next/
+Disallow: /api/socketio
