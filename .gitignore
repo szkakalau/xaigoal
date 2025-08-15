@@ -30,7 +30,7 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-def.log
+dev.log
 server.log
 
 # env files (can opt-in for committing if needed)
@@ -48,6 +48,7 @@ local-*
 .claude
 .z-ai-config
 
+# misc dev folders
 test
 prompt
 
