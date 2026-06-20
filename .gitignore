@@ -54,3 +54,6 @@ prompt
 
 # databases and local assets
 /db/*.db
+.claude/
+.env.*
+.credentials.json
